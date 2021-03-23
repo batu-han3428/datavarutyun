@@ -1,2 +1,2 @@
 # datavarutyun
-Nakhatesvats e pvordzarkman hamar
+Nakhatesvats e pvordzarkman hamar.
