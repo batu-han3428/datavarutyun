@@ -1,0 +1,16 @@
+C:\Users\batu\Desktop\C_SHARP\bin\Debug\net5.0\C_SHARP.exe
+C:\Users\batu\Desktop\C_SHARP\bin\Debug\net5.0\C_SHARP.deps.json
+C:\Users\batu\Desktop\C_SHARP\bin\Debug\net5.0\C_SHARP.runtimeconfig.json
+C:\Users\batu\Desktop\C_SHARP\bin\Debug\net5.0\C_SHARP.runtimeconfig.dev.json
+C:\Users\batu\Desktop\C_SHARP\bin\Debug\net5.0\C_SHARP.dll
+C:\Users\batu\Desktop\C_SHARP\bin\Debug\net5.0\ref\C_SHARP.dll
+C:\Users\batu\Desktop\C_SHARP\bin\Debug\net5.0\C_SHARP.pdb
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\C_SHARP.csprojAssemblyReference.cache
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\C_SHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\C_SHARP.AssemblyInfoInputs.cache
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\C_SHARP.AssemblyInfo.cs
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\C_SHARP.csproj.CoreCompileInputs.cache
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\C_SHARP.dll
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\ref\C_SHARP.dll
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\C_SHARP.pdb
+C:\Users\batu\Desktop\C_SHARP\obj\Debug\net5.0\C_SHARP.genruntimeconfig.cache
