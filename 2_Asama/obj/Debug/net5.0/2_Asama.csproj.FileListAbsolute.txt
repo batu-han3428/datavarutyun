@@ -1,0 +1,16 @@
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\bin\Debug\net5.0\2_Asama.exe
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\bin\Debug\net5.0\2_Asama.deps.json
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\bin\Debug\net5.0\2_Asama.runtimeconfig.json
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\bin\Debug\net5.0\2_Asama.runtimeconfig.dev.json
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\bin\Debug\net5.0\2_Asama.dll
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\bin\Debug\net5.0\ref\2_Asama.dll
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\bin\Debug\net5.0\2_Asama.pdb
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\2_Asama.csprojAssemblyReference.cache
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\2_Asama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\2_Asama.AssemblyInfoInputs.cache
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\2_Asama.AssemblyInfo.cs
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\2_Asama.csproj.CoreCompileInputs.cache
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\2_Asama.dll
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\ref\2_Asama.dll
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\2_Asama.pdb
+C:\Users\batu\Desktop\C_SHARP\25_03_2021\2_Asama\obj\Debug\net5.0\2_Asama.genruntimeconfig.cache
