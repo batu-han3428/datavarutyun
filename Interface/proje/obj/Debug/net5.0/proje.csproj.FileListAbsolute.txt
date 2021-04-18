@@ -1,0 +1,16 @@
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\bin\Debug\net5.0\proje.exe
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\bin\Debug\net5.0\proje.deps.json
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\bin\Debug\net5.0\proje.runtimeconfig.json
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\bin\Debug\net5.0\proje.runtimeconfig.dev.json
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\bin\Debug\net5.0\proje.dll
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\bin\Debug\net5.0\ref\proje.dll
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\bin\Debug\net5.0\proje.pdb
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\proje.csprojAssemblyReference.cache
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\proje.AssemblyInfoInputs.cache
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\proje.AssemblyInfo.cs
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\proje.csproj.CoreCompileInputs.cache
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\proje.dll
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\ref\proje.dll
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\proje.pdb
+C:\Users\batu\Desktop\C_SHARP\Nisan\17_04_2021\proje\obj\Debug\net5.0\proje.genruntimeconfig.cache
