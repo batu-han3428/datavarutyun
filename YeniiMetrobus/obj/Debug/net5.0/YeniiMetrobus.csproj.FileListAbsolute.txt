@@ -1,0 +1,16 @@
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\YeniiMetrobus.csprojAssemblyReference.cache
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\YeniiMetrobus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\YeniiMetrobus.AssemblyInfoInputs.cache
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\YeniiMetrobus.AssemblyInfo.cs
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\YeniiMetrobus.csproj.CoreCompileInputs.cache
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\bin\Debug\net5.0\YeniiMetrobus.exe
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\bin\Debug\net5.0\YeniiMetrobus.deps.json
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\bin\Debug\net5.0\YeniiMetrobus.runtimeconfig.json
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\bin\Debug\net5.0\YeniiMetrobus.runtimeconfig.dev.json
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\bin\Debug\net5.0\YeniiMetrobus.dll
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\bin\Debug\net5.0\ref\YeniiMetrobus.dll
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\bin\Debug\net5.0\YeniiMetrobus.pdb
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\YeniiMetrobus.dll
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\ref\YeniiMetrobus.dll
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\YeniiMetrobus.pdb
+C:\Users\batu\Desktop\C_SHARP\Nisan\22_04_2021\YeniiMetrobus\obj\Debug\net5.0\YeniiMetrobus.genruntimeconfig.cache
