@@ -1,0 +1,88 @@
+﻿@model Customer
+
+<select asp-items="@ViewBag.musteriler" asp-for="CustomerId">
+    <option>Müşteriler</option>
+</select>
+
+<div id="ajaxGosterimAlan"></div>
+
+<div id="anaAlan">
+    <div class="card">
+        <div class="card-header">
+            <span style="margin-right:10px;">Order Detail</span>
+            <partial name="_radioButtons" />
+        </div>
+        <div class="card-body">
+            <div id="ajaxOrderGosterimAlan">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade" id="orderDetailModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="orderDetailLabel">Order Detail</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                ...
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+
+    <script type="text/javascript">
+        $(function () {
+
+            $("#anaAlan").hide();
+            $("#ajaxGosterimAlan").hide();
+
+        $("select").change(function () {
+
+            $("#anaAlan").fadeOut().fadeIn(1000);
+            $("#ajaxGosterimAlan").fadeOut().fadeIn(1000);
+           
+
+            var seciliMusteriAction = "@Url.Action("seciliMusteri", "SiparisForm")";
+            var seciliMusteriOrderAction = "@Url.Action("seciliMusteriOrder", "SiparisForm")";
+
+            var musteriId = $(this).val();
+
+
+                $.ajax({
+                    type: "POST",
+                    url: seciliMusteriAction,
+                    data: { "musteri": musteriId },
+                    success: function (e) {
+                        $("#ajaxGosterimAlan").html(e);
+                    }
+                });
+
+                $.ajax({
+                    type: "POST",
+                    url: seciliMusteriOrderAction,
+                    data: { "musteri": musteriId },
+                    success: function (e) {
+                        $("#ajaxOrderGosterimAlan").html(e);
+                       
+                    }
+                });
+
+        });
+
+        });
+
+    </script>
+
+}

@@ -1,0 +1,62 @@
+﻿@model List<Order>
+
+    
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <td>Order Id</td>
+                    <td>Order Date</td>
+                    <td>Required Date</td>
+                    <td>Shipped Date</td>
+                </tr>
+            </thead>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><a class="btn btn-outline-info" asp-route-orderid="@item.OrderId" asp-controller="SiparisForm" asp-action="seciliMusteriOrderDetaylari">Detay</a></td>
+                    <td><input type="text" asp-for="@item.OrderDate" disabled="disabled" /></td>
+                    <td><input type="text" asp-for="@item.RequiredDate" disabled="disabled" /></td>
+                    <td><input type="text" asp-for="@item.ShippedDate" disabled="disabled" /></td>
+                </tr>
+            }
+        </table>
+
+
+
+
+<script type="text/javascript">
+
+
+
+            $('input[type=radio]').change(function () {
+
+
+                var radio = $("input[type='radio']:checked").val();
+                var musteriId = $("select").val();
+
+              
+
+
+              var filtre = "@Url.Action("filtre", "SiparisForm")";
+
+
+
+            $.ajax({
+                type: "POST",
+                url: filtre,
+                data: { "musteri": musteriId , "radio": radio},
+                success: function (e) {
+                    $("#ajaxOrderGosterimAlan").html(e);
+                }
+            });
+
+                 
+
+            });
+
+
+
+</script>
+

@@ -1,0 +1,17 @@
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\bin\Debug\net5.0\BL.deps.json
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\bin\Debug\net5.0\BL.dll
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\bin\Debug\net5.0\ref\BL.dll
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\bin\Debug\net5.0\BL.pdb
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\bin\Debug\net5.0\Entity.dll
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\bin\Debug\net5.0\Entity.pdb
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\BL.csprojAssemblyReference.cache
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\BL.AssemblyInfoInputs.cache
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\BL.AssemblyInfo.cs
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\BL.csproj.CopyComplete
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\BL.dll
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\ref\BL.dll
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\obj\Debug\net5.0\BL.pdb
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\bin\Debug\net5.0\DAL.dll
+C:\Users\batu\source\repos\OdevCustomerOrdersForm\BL\bin\Debug\net5.0\DAL.pdb

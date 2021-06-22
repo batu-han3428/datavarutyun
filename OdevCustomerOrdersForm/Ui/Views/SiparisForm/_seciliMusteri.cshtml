@@ -1,0 +1,32 @@
+﻿@model Customer
+
+<div class="card">
+    <div class="card-header">
+        Customer Detail
+    </div>
+    <div class="card-body">
+
+        <table class="table">
+            <tr>
+                <td><label asp-for="@Model.ContactName"></label></td>
+                <td><input type="text" asp-for="@Model.ContactName" disabled="disabled" /></td>
+
+            </tr>
+            <tr>
+                <td><label asp-for="@Model.Phone"></label></td>
+                <td><input type="text" asp-for="@Model.Phone" disabled="disabled" /></td>
+
+            </tr>
+            <tr>
+                <td><label asp-for="@Model.City"></label></td>
+                <td><input type="text" asp-for="@Model.City" disabled="disabled" /></td>
+
+            </tr>
+            <tr>
+                <td><label asp-for="@Model.Country"></label></td>
+                <td><input type="text" asp-for="@Model.Country" disabled="disabled" /></td>
+
+            </tr>
+        </table>
+    </div>
+</div>

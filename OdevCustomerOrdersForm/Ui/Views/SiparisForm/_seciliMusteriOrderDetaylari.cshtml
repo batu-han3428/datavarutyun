@@ -1,0 +1,50 @@
+﻿@model List<OrderDetail>
+
+@{
+    Layout = "_Layout";
+    decimal totalValue = 0;
+}
+
+<div class="card">
+    <div class="card-header">
+        Order Detail
+    </div>
+    <div class="card-body">
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <td>Order Id</td>
+                    <td>Product</td>
+                    <td>Quantity</td>
+                    <td>UnitPrice</td>
+                    <td>Discount</td>
+                    <td>Total</td>
+
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    var ciro = (item.Quantity * item.UnitPrice / (1 - (decimal)item.Discount));
+                    totalValue += ciro;
+                    <tr>
+                        <td> <label asp-for="@item.OrderId"></label></td>
+                        <td><input type="text" asp-for="@item.Product.ProductName" disabled="disabled" /></td>
+                        <td><input type="text" asp-for="@item.Quantity" disabled="disabled" /></td>
+                        <td><input type="text" asp-for="@item.UnitPrice" disabled="disabled" /></td>
+                        <td><input type="text" asp-for="@item.Discount" disabled="disabled" /></td>
+                        <td><input type="text" asp-for="@ciro" disabled="disabled" /></td>
+                    </tr>
+                }
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Sub Total</td>
+                    <td>@totalValue.ToString("C")</td>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
